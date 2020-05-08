@@ -1,0 +1,27 @@
+.top-ul li {
+    display: inline;  
+}
+.top-ul, .top-bar p {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.top-bar p {
+    padding-top: 15px;
+}
+.top-ul li a i {
+    color: white;
+    padding: 10px ;
+}
+.top-bar {
+    background-color: #316DC3 ;
+}
+.topbar-buttons {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.links {
+    float: right;
+}
+
